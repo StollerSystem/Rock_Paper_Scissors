@@ -1,10 +1,10 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ProjectName;
+using RockPaperScissors;
 
-namespace ProjectName.Tests
+namespace RockPaperScissors.Tests
 {
   [TestClass]
-  public class ClassNameTests
+  public class RockPaperScissorsTests
   {
     // Test methods go here
   }
