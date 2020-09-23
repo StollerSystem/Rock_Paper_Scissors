@@ -7,3 +7,5 @@ C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper
 C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors\bin\Debug\netcoreapp2.2\Rock_Paper_Scissors.pdb
 C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors\obj\Debug\netcoreapp2.2\Rock_Paper_Scissors.dll
 C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors\obj\Debug\netcoreapp2.2\Rock_Paper_Scissors.pdb
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors\bin\Debug\netcoreapp2.2\Rock_Paper_Scissors.runtimeconfig.json
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors\bin\Debug\netcoreapp2.2\Rock_Paper_Scissors.runtimeconfig.dev.json

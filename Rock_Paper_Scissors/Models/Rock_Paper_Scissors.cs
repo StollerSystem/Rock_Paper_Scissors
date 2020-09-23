@@ -1,3 +1,5 @@
+using System;
+
 namespace RockPaperScissors
 {
   public class Game
@@ -18,6 +20,14 @@ namespace RockPaperScissors
       {
         return "draw";
       }
+    }
+
+    public static string CompPlay ()
+    {
+      string[] hands = {"rock", "scissors", "paper"};
+      Random random = new Random();
+      int ranNum = random.Next(3);
+      return hands[ranNum];
     }
   }
 }
