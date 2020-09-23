@@ -18,12 +18,12 @@ Paper v. Scissors = Scissors wins
 
 ## Specs
 
-* If both players choose ROCK, then output draw
-* If both players choose PAPER, then output draw
-* If both players choose SCISSORS, then output draw
-* If Rock v. Scissors = Rock wins
-* If Rock v. Paper = Paper wins
-* If Paper v. Scissors = Scissors wins
+* 1 If both players choose ROCK, then output draw
+* 1 If both players choose PAPER, then output draw
+* 1 If both players choose SCISSORS, then output draw
+* 2 If Rock v. Scissors = Rock wins
+* 3 If Rock v. Paper = Paper wins
+* 4 If Paper v. Scissors = Scissors wins
 
 ### License
 

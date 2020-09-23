@@ -7,9 +7,36 @@ namespace RockPaperScissors
       if (p1Hand == p2Hand)
       {
         return "draw";
-      } else 
+      } 
+      // PLAYER 1
+      else if (p1Hand == "rock" && p2Hand == "scissors")
       {
-        return "test";
+        return "Player One Wins";
+      } 
+      else if (p1Hand == "scissors" && p2Hand == "paper")
+      {
+        return "Player One Wins";
+      }  
+      else if (p1Hand == "paper" && p2Hand == "rock")
+      {
+        return "Player One Wins";
+      }  
+      // PLAYER 2
+      else if (p1Hand == "rock" && p2Hand == "paper")
+      {
+        return "Player Two Wins";
+      } 
+      else if (p1Hand == "scissors" && p2Hand == "rock")
+      {
+        return "Player Two Wins";
+      }  
+      else if (p1Hand == "paper" && p2Hand == "scissors")
+      {
+        return "Player Two Wins";
+      }              
+      else
+      {
+        return "whatever";
       }
     }
   }
