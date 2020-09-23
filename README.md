@@ -1,6 +1,6 @@
 # _Rock Paper Scissors_
 
-#### _Epicodus Sifts list of numbers for Prime, 9/23/2020_
+#### _Epicodus Rock Paper Scissors Game, 9/23/2020_
 
 #### By _**Ben Stoller and William Donovan-Seid**_
 
@@ -15,6 +15,15 @@ The game Rock, Paper, Scissors! For anyone who has never played it, here are the
 Rock v. Scissors = Rock wins
 Rock v. Paper = Paper wins
 Paper v. Scissors = Scissors wins
+
+## Specs
+
+* If both players choose ROCK, then output draw
+* If both players choose PAPER, then output draw
+* If both players choose SCISSORS, then output draw
+* If Rock v. Scissors = Rock wins
+* If Rock v. Paper = Paper wins
+* If Paper v. Scissors = Scissors wins
 
 ### License
 

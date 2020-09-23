@@ -2,6 +2,15 @@ namespace RockPaperScissors
 {
   public class Game
   {
-    // properties, constructors, methods, etc. go here
+    public static string Play (string p1Hand, string p2Hand)
+    {
+      if (p1Hand == p2Hand)
+      {
+        return "draw";
+      } else 
+      {
+        return "test";
+      }
+    }
   }
 }

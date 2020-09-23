@@ -1,11 +1,21 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using RockPaperScissors;
 
-namespace RockPaperScissors.Tests
+namespace Rock_Paper_Scissors.Tests
 {
   [TestClass]
   public class RockPaperScissorsTests
   {
-    // Test methods go here
+
+    [TestMethod]
+    public void Game_BothChooseRock_Draw()
+    {
+      //Arrange
+
+      //Act      
+      string capture = Game.Play("rock","rock");
+      //Assert
+      Assert.AreEqual("draw", capture);
+    }
   }
 }

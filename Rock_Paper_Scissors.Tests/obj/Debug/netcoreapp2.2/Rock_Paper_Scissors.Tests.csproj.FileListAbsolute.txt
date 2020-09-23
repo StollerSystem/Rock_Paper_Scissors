@@ -1,0 +1,17 @@
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors.Tests\obj\Debug\netcoreapp2.2\Rock_Paper_Scissors.Tests.csprojAssemblyReference.cache
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors.Tests\obj\Debug\netcoreapp2.2\Rock_Paper_Scissors.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors.Tests\obj\Debug\netcoreapp2.2\Rock_Paper_Scissors.Tests.AssemblyInfoInputs.cache
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors.Tests\obj\Debug\netcoreapp2.2\Rock_Paper_Scissors.Tests.AssemblyInfo.cs
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors.Tests\bin\Debug\netcoreapp2.2\Rock_Paper_Scissors.Tests.deps.json
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors.Tests\bin\Debug\netcoreapp2.2\Rock_Paper_Scissors.Tests.runtimeconfig.json
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors.Tests\bin\Debug\netcoreapp2.2\Rock_Paper_Scissors.Tests.runtimeconfig.dev.json
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors.Tests\bin\Debug\netcoreapp2.2\Rock_Paper_Scissors.Tests.dll
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors.Tests\bin\Debug\netcoreapp2.2\Rock_Paper_Scissors.Tests.pdb
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors.Tests\bin\Debug\netcoreapp2.2\Rock_Paper_Scissors.dll
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors.Tests\bin\Debug\netcoreapp2.2\Rock_Paper_Scissors.pdb
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors.Tests\obj\Debug\netcoreapp2.2\Rock_Paper_Scissors.Tests.csproj.CopyComplete
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors.Tests\obj\Debug\netcoreapp2.2\Rock_Paper_Scissors.Tests.dll
+C:\Users\Owner\Epicodus\C#\exercise_work\Rock_Paper_Scissors.Solution\Rock_Paper_Scissors.Tests\obj\Debug\netcoreapp2.2\Rock_Paper_Scissors.Tests.pdb
